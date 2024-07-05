@@ -431,6 +431,7 @@ html {
     justify-content: center;
     background: #fff;
     border-radius: 2px;
+    z-index: 1;
 }
 
 .header__search-input-warp {
@@ -898,6 +899,7 @@ html {
     margin: 0;
     animation: fadeIn .2s linear;
     border-radius: 2px;
+    z-index: 999;
 }
 
 .select-input:hover .select-input__list,
