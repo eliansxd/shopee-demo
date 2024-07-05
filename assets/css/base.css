@@ -1028,7 +1028,7 @@ html {
 }
 
 .footer__link:hover {
-    color: rgb(from var(--primary-color) r g b / 90%);
+    color: rgb(from var(--primary-color) r g b / 90%)
 }
 
 @keyframes fadeIn {
